@@ -20,6 +20,8 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Imaging;
 using Windows.UI.Xaml.Navigation;
 
+//Testing Comments
+
 // The Hub Application template is documented at http://go.microsoft.com/fwlink/?LinkId=391641
 
 namespace HubApp1
