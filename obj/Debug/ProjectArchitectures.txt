@@ -1,0 +1,1 @@
+C:\myOwnApps\HubApp1\HubApp1\HubApp1.csproj;neutral
